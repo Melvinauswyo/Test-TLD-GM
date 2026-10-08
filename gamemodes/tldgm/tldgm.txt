@@ -1,0 +1,7 @@
+"tldgm"
+{
+    "base"       "sandbox"
+    "title"      "The Long Drive: Garry's Mod"
+    "category"   "other"
+    "menusystem" "1"
+}
