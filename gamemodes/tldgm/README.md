@@ -1,7 +1,7 @@
 # TLDGM gamemode scaffold
 
-This folder is the separate Garry\'s Mod gamemode entry point. Copy `tldgm` into `garrysmod/gamemodes/`, then select **The Long Drive: Garry\'s Mod** from the gamemode list while starting a map. It derives from Sandbox, so the selected map and its normal spawn points remain in use.
+This is the separate Garry's Mod gamemode entry point. Copy the `tldgm` folder into `garrysmod/gamemodes/`, then start a map with **The Long Drive: Garry's Mod** selected. It derives from Sandbox, so players spawn at the selected map's normal spawn points.
 
 ## Current implementation status
 
-This is only the launchable gamemode shell. It does not yet include The Long Drive vehicles, items, player movement tuning, driving physics, or multiplayer join automation. Those need real asset extraction/conversion from the player\'s own The Long Drive installation and in-game testing; this repository intentionally contains no game assets or invented substitutes.
+This is only the gamemode shell. It does not yet include The Long Drive vehicles, items, player movement tuning, driving physics, or automated multiplayer joining. Those features need to use real content from each player's own The Long Drive installation and require in-game testing. This repository contains no game assets or invented substitutes.
