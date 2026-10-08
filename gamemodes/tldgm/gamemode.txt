@@ -1,0 +1,6 @@
+"Gamemode"
+{
+    "base"      "sandbox"
+    "title"     "The Long Drive: Garry's Mod"
+    "menusystem" "1"
+}
